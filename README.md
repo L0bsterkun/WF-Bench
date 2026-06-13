@@ -37,14 +37,11 @@ In general, a loss function may use one or more samplers, depending on the estim
 ## Citing WF-Bench
 Please cite our work as the following
 ```bibtex
-@misc{aaa,
-      title={WF-Bench: A Benchmark for Neural-Network WaveFunction \\ Expressivity and Scaling Laws},
-      author={Lixing Zhang and Guijing Duan and Di Luo},
-      year={2025},
-      eprint={},
-      archivePrefix={arXiv},
-      primaryClass={},
-      url={},
+@inproceedings{zhang2026wf,
+  title     = {WF-Bench: A Benchmark for Neural Network WaveFunction Expressivity and Scaling Laws},
+  author    = {Lixing Zhang and Guijing Duan and Di Luo},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  year      = {2026}
 }
 ```
 
